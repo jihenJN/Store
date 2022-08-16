@@ -1,0 +1,4 @@
+welcome to our Store!
+----List Products----
+ Id:101  Name:chocolat  Price:1.5dt  Quantity:20
+ Id:102  Name:bonbon  Price:0.35dt  Quantity:50
